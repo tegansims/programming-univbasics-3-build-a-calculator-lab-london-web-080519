@@ -1,9 +1,10 @@
 def addition(num1, num2)
-  puts num1+num2
+  a = num1+num2
+  return a
 end
 
 def subtraction(num1, num2)
-
+  puts num2-num1
 end
 
 def division(num1, num2)
