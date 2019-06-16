@@ -18,6 +18,7 @@ def modulo(num1, num2)
 
 end
 
+addition(2, 4)
 def square_root(num)
 
 end
